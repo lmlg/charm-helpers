@@ -338,6 +338,7 @@ UBUNTU_OPENSTACK_RELEASE = OrderedDict([
     ('noble', 'caracal'),
     ('oracular', 'dalmatian'),
     ('plucky', 'epoxy'),
+    ('questing', 'epoxy')
 ])
 
 
